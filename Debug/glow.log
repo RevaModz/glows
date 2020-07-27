@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Source.cpp(6,1): warning C4005: 'dwLocalPlayer': macro redefinition
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Offsets.h(117): message : see previous definition of 'dwLocalPlayer'
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Source.cpp(7,1): warning C4005: 'dwGlowObjectManager': macro redefinition
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Offsets.h(114): message : see previous definition of 'dwGlowObjectManager'
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Source.cpp(8,1): warning C4005: 'dwEntityList': macro redefinition
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Offsets.h(102): message : see previous definition of 'dwEntityList'
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Source.cpp(9,1): warning C4005: 'm_iGlowIndex': macro redefinition
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Offsets.h(64): message : see previous definition of 'm_iGlowIndex'
+C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Source.cpp(33): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  glow.vcxproj -> C:\Users\Reva\Desktop\CSGO HACKS\fov\glow\Debug\glow.exe
